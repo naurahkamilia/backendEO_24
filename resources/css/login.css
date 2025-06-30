@@ -1,0 +1,36 @@
+.container-login {
+    max-width: 400px;
+    margin: 30px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.header .title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: #777;
+}
+
+.tabs .tab {
+    font-weight: bold;
+    padding: 5px 15px;
+    border-bottom: 2px solid transparent;
+}
+
+.tabs .active {
+    border-color: #007bff;
+}
+
+.divider hr {
+    margin: 0;
+}
+
+.rounded-pill {
+    border-radius: 50rem !important;
+}
